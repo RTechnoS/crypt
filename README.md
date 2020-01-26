@@ -16,4 +16,8 @@ Pengunaan :
 
 *Nb : Hargai Pembuat 
 
-# Copyright © 2019 Rusman TS
+# Copyright © 2020 Rusman TS
+Instagram : @rusman_toby
+
+Email : rusmantobyaktasiregar@gmail.com
+
